@@ -504,7 +504,7 @@ const ToolsTechnologySection = () => {
                       <span className="text-sm text-muted-foreground">Computer Vision</span>
                     </div>
                     <div className="flex items-center gap-2">
-                      <Badge variant="secondary" className="bg-blue-600 text-white">PostgreSQL</Badge>
+                      <Badge variant="secondary" className="bg-blue-600 text-white">MongoDB</Badge>
                       <span className="text-sm text-muted-foreground">Database</span>
                     </div>
                     <div className="flex items-center gap-2">
