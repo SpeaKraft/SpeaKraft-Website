@@ -124,17 +124,9 @@ const ToolsTechnologySection = () => {
       color: 'purple-500',
       items: [
         { 
-          name: 'PostgreSQL', 
-          icon: Server, 
-          description: 'Structured user and report data', 
-          color: 'blue-600',
-          image: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg',
-          gradient: 'from-blue-500 to-blue-700'
-        },
-        { 
           name: 'MongoDB', 
           icon: Cloud, 
-          description: 'Unstructured logs and emotion timelines', 
+          description: 'Structured logs and individual analysis', 
           color: 'green-600',
           image: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg',
           gradient: 'from-green-500 to-green-700'
